@@ -5,12 +5,11 @@ subnet:
   description: |
     <your description here>
   maintainers:
-    - "<your email here"
+    - "<your email here>"
   installScript: "<your install script path here>"
   vms:
     - "<your vms here>"
   config:
-    # This the default subnet config as of avalanchego v1.7.10
     - gossipAcceptedFrontierValidatorSize: 0
     - gossipAcceptedFrontierNonValidatorSize: 0
     - gossipAcceptedFrontierPeerSize: 35

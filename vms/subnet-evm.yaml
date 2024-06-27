@@ -1,15 +1,15 @@
 vm:
   id: "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy"
   alias: "subnet-evm"
-  homepage: "https://github.com/ava-labs/subnet-evm"
-  description: "Subnet EVM is the Virtual Machine (VM) that defines the Subnet Contract Chains. Subnet EVM is a simplified version of Coreth VM (C-Chain). This chain implements the Ethereum Virtual Machine and supports Solidity smart contracts as well as most other Ethereum client functionality."
+  homepage: "https://github.com/DioneProtocol/subnet-evm"
+  description: "Subnet EVM is the Virtual Machine (VM) that defines the Subnet Contract Chains. Subnet EVM is a simplified version of Coreth VM (D-Chain). This chain implements the Ethereum Virtual Machine and supports Solidity smart contracts as well as most other Ethereum client functionality."
   maintainers:
-    - "patrickogrady@avalabs.org"
+    - "dev@dioneprotocol.com"
   installScript: "scripts/build.sh build/srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy"
   binaryPath: "build/srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy"
-  url: "https://github.com/ava-labs/subnet-evm/archive/refs/tags/v0.2.7.tar.gz"
-  sha256: "c0d63b56031820007cce5fa8ea635628b8b9a5897111290a78b60538838509f8"
+  url: "https://github.com/DioneProtocol/subnet-evm/archive/refs/tags/v0.0.1.tar.gz"
+  sha256: "2e39b12684c780abe94a4f9b841d93fa35f4f0da614c566907df361bb6402f0b"
   version:
     major: 0
-    minor: 2
-    patch: 7
+    minor: 0
+    patch: 1

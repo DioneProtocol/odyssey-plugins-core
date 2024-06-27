@@ -8,4 +8,4 @@ vm:
     - "<your email here>"
   installScript: "<your install script path here>"
   url: "<a link to your release here>"
-  sha256: "<your sha256 checksume here>"
+  sha256: "<your sha256 checksum here>"
